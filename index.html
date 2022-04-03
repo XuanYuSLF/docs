@@ -5,28 +5,22 @@
   <title>玄雨的资料库</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css">
 </head>
 <body>
+  <nav>
+    <a href="#/material">作文素材/a>
+    <a href="#/EnglishCollect">英语相关收集</a>
+  </nav>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      formatUpdated: '{MM}/{DD} {HH}:{mm}',
-
-      formatUpdated: function(time) {
-        // ...
-
-        return time;
-      },
-      loadSidebar: true,
+      name: '资料库',
+      loadNavbar: true,
       coverpage: true,
       loadSidebar: true,
-      autoHeader: true,
-      mergeNavbar: true,
       subMaxLevel: 2,
-      loadNavbar: true,
-      name: '',
       repo: ''
     }
   </script>

@@ -6,7 +6,7 @@
 
   > Henry David Thoreau
 
-* It’s better to fail while striving for something wonderful, challenging, adventurous, and uncertain than to say, "I don’t want to try because I may not succeed completely.
+* It’s better to fail while striving for something wonderful, challenging, adventurous, and uncertain than to say, "I don’t want to try because I may not succeed completely."
 
   与其说“我不想尝试，因为我可能不会完全成功”，不如在为美好、挑战、冒险和不确定的事情而奋斗时失败
 
