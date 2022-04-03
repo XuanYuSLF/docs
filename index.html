@@ -12,9 +12,18 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
+
+      formatUpdated: function(time) {
+        // ...
+
+        return time;
+      },
       loadSidebar: true,
       coverpage: true,
       loadSidebar: true,
+      autoHeader: true,
+      mergeNavbar: true,
       subMaxLevel: 2,
       loadNavbar: true,
       name: '',
